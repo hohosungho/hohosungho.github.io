@@ -1,0 +1,22 @@
+date: "2018-01-25"
+resources:
+- name: header
+  src: images/tincanappicon.png
+- params:
+    icon: photo
+  src: documents/photo_specs.pdf
+  title: Photo Specifications
+- src: documents/guide.pdf
+  title: Instruction Guide
+- src: documents/checklist.pdf
+  title: Document Checklist
+- src: documents/payment.docx
+  title: Proof of Payment
+- name: pdf-file-:counter
+  params:
+    icon: pdf
+  src: '**.pdf'
+- params:
+    icon: word
+  src: '**.docx'
+title: Application

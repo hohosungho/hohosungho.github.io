@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sung Ho Youn</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Sung Ho Youn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>저는 2년동안 스타트업에서 서버 개발자로 일을 하였습니다. 스타트업에서 일을 하면서 다양한 장점과 단점을 배웠습니다. 스타트업에서 일을 하다보면, 새로운 기술과 넓은 영역에서 활약을 할 수 있었습니다. 제가 디자인하고 저의 중심으로 서버 개발이 진행이 되었습니다. 개발 미팅뿐만 아니라, 디자이너분들과 직접적으로 얘기를 하며 의견을 나누기도 하고 대표님께 여러 의견을 내놓고 서로 논의 하기도 하였습니다. 하지만, 코드의 깊이가 부족하거나 디자인이 부적절할 때도 많았습니다. 빠르게 진행되어야하는 프로젝트에서, 저는 경험이 부족하여 인터넷에서의 내용만을 참고하여 진행하여 문제가 생기기도 하였으며, 코드리뷰가 활발하게 진행되지 않아 저의 잘못을 깨닫는데 오랜시간이 걸렸습니다.</description>
+    </item>
+    
+  </channel>
+</rss>
