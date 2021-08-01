@@ -2,5 +2,5 @@
   HUGO_VERSION = "0.77.0"
   
 [build]
-  publish = "quickstart"
+  publish = "public"
   command = "hugo"
