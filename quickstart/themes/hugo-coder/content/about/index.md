@@ -25,7 +25,7 @@ author = "Sung Ho Youn"
     border-radius: .25rem;
     padding: 8px;">
     <div style="align-self: center; margin:0 8px 0 8px; flex: 0 0 20%;">
-            <img src="/images/socialradiocompanylogo.png" width="100" height="100" class="company-logo"> 
+            <img src="/images/socialradiocompanylogo.png" class="company-logo"> 
         </div>
         <div style="flex: 0 0 75%  ">
             <h4 style="margin: 0 0 8px  0" >Tin Can <span style="
