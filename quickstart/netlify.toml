@@ -1,0 +1,6 @@
+[context.production.environment]
+  HUGO_VERSION = "0.77.0"
+  
+[build]
+  publish = "quickstart"
+  command = "hugo"
