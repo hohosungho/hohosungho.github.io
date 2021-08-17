@@ -1,9 +1,9 @@
-+++ 
-	author = "Sung Ho Youn" 
++++
+	author = "Sung Ho Youn"
 	date = "2021-08-10"
-	title = "파이썬과 자바의 차이 1" 
-	tags = ["Python", "Java", "Programming ] 
-	categories = [ "Studying", ] 
+	title = "두번째언어로 파이썬 배우기 1"
+	tags = ["Python", "Java", "Programming" ] 
+	categories = [ "Studying", ]
 +++
 
 파이썬은 보다 편하고 쉽게 코딩을 할 수 있게 발명된 프로그래밍 언어입니다. 하지만 만약 다른언어, 예를 들면, 자바나 C언어를 먼저 배웠다면 다소 생소하거나 이해가 잘 가지 않는 부분들이 있을겁니다. 이 포스팅은 그런부분들을 하나씩 정리하고 파이썬을 늦게 공부하게 된 개발자분들이 빠르게 파이썬에 적응하기 위해 만들어 졌습니다.
